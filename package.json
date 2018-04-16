@@ -1,6 +1,6 @@
 {
   "name": "atom-ide-debugger-node",
-  "version": "0.5.0",
+  "version": "0.7.0",
   "description": "Node Debugger for Atom IDE.",
   "author": "NEEDS OWNER",
   "license": "BSD-3-Clause",
@@ -18,7 +18,7 @@
     }
   },
   "dependencies": {
-    "atom-ide-debugger-node": "0.6.0"
+    "atom-ide-debugger-node": "0.7.0"
   },
   "package-deps": [
     "atom-ide-ui"

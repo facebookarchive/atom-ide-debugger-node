@@ -1,6 +1,6 @@
 # atom-ide-debugger-node
 
-OCaml Debugger for Atom IDE.
+Node Debugger for Atom IDE.
 
 ## Usage
 
