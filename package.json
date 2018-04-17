@@ -1,6 +1,6 @@
 {
   "name": "atom-ide-debugger-node",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "Node Debugger for Atom IDE.",
   "author": "NEEDS OWNER",
   "license": "BSD-3-Clause",
